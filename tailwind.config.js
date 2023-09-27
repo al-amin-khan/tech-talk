@@ -7,7 +7,11 @@ export default {
   ],
   theme: {
     extend: {
+      'bluish-purple': '#6047EC',
     },
+    fontFamily: {
+      'sans': ['"Exo 2"', ], 
+    }
   },
   plugins: [],
 }
